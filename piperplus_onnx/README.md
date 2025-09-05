@@ -4,7 +4,7 @@
 https://github.com/ayutaz/piper-plus
 
 ## 事前準備
-こちらからONNXを入手します
+こちらからONNX[ja_JP-test-medium.onnx]を入手します
 https://github.com/ayutaz/piper-plus/tree/dev/huggingface-space/models
 
 
@@ -76,4 +76,5 @@ INFO: Audio saved to: out.wav
 INFO: Duration: 2.50 seconds
 
 ```
+
 
