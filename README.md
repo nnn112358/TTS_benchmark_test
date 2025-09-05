@@ -19,7 +19,7 @@
 
 | TTSエンジン      | 処理時間 (ms) |
 | ------------ | --------- |
-| PiperPlus JP | 187.37    |
-| MeloTTS JP   | 1976.57   |
+| PiperPlus JP@ONNX-CPU | 187.37    |
+| MeloTTS JP @ONNX-CPU  | 1976.57   |
 
 *注: ONNX-CPU 実装でのベンチマーク結果*
