@@ -1,15 +1,12 @@
 # Piper TTS CLI
 
-ONNXモデルを使用した音声合成のためのシンプルなコマンドラインインターフェース。
+こちらは、以下のリポジトリのforkです。
+https://github.com/ayutaz/piper-plus
+
 
 ## 機能
-
 - ONNX Runtimeを使用したテキスト音声合成
-- 複数言語対応（日本語、英語など）
-- 音素化サポート（日本語用pyopenjtalk、その他言語用espeak）
-- パフォーマンス ベンチマーク機能
-- モデル設定ファイルの自動検出
-- クロスプラットフォーム対応のUTF-8エンコーディングサポート
+
 
 ## インストール
 
@@ -73,4 +70,5 @@ INFO: Sample rate: 22050
 INFO: Benchmark (ORT run(None, inputs)) — runs=10 warmup=2 | mean=187.366 ms median=169.398 ms p95=241.808 ms min=156.537 ms max=244.318 ms
 INFO: Audio saved to: out.wav
 INFO: Duration: 2.50 seconds
+
 ```
