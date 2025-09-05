@@ -1,6 +1,6 @@
 # MeloTTS ONNX
 
-こちらは、以下のリポジトリのforkです。
+こちらは、以下のリポジトリをベースに作成したものです
 https://github.com/ml-inory/melotts.axera
 
 MeloTTSのONNXモデルを使用したテキスト音声合成のベンチマークテスト
@@ -75,6 +75,7 @@ ONNXモデルファイルを`models/`ディレクトリに配置してくださ�
 - NumPy
 - SoundFile
 - その他の言語固有の依存関係 (pyproject.tomlを参照)
+
 
 
 
