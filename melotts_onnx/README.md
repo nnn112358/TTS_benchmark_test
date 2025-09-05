@@ -11,6 +11,12 @@ MeloTTSのONNXモデルを使用したテキスト音声合成のベンチマー
 - カスタマイズ可能なサンプルレートと音声速度
 - シンプルなCLIインターフェース
 
+##事前準備
+こちらから、encoder-jp.onnxとdecoder-jp.onnxをダウンロードします。
+https://github.com/PINTO0309/melotts.axera/releases/tag/JP
+
+
+
 ## インストール
 
 1. このリポジトリをクローンします
@@ -69,4 +75,5 @@ ONNXモデルファイルを`models/`ディレクトリに配置してくださ�
 - NumPy
 - SoundFile
 - その他の言語固有の依存関係 (pyproject.tomlを参照)
+
 
