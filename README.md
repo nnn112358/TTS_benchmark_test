@@ -1,8 +1,12 @@
 ## TTSベンチマーク結果（ONNX-CPU 実装）
 
-### 推論時間
+対象実装:
+
+* **MeloTTS**: [ml-inory/melotts.axera](https://github.com/ml-inory/melotts.axera)
+* **PiperPlus**: [ayutaz/piper-plus](https://github.com/ayutaz/piper-plus)
 
 #### MeloTTS JP @ONNX-CPU
+
 * **エンコーダー**: 51.76 ms
 * **デコーダー**: 1924.81 ms
 * **合計**: 1976.57 ms
