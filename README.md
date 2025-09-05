@@ -11,7 +11,7 @@
 #### PiperPlus JP @ONNX-CPU
 * **合計**: 187.37 ms
 * **サンプル音声**: [output.wav](https://github.com/nnn112358/TTS_benchmark_test/blob/main/piperplus_onnx/output.wav)
-> 備考: 音声合成の結果が正しい日本語になっていないため、要調査。(25/09/05)
+> 備考: PiperPlus JP での音声合成の結果が正しい日本語になっていないため、要調査。(25/09/05)
 
 ---
 
