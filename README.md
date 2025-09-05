@@ -23,3 +23,5 @@
 | MeloTTS JP @ONNX-CPU  | 1976.57   |
 
 *注: ONNX-CPU 実装でのベンチマーク結果*
+  - プロセッサ: Intel Core i5-1335U (第13世代)
+  - 動作環境: WSL2 (Windows Subsystem for Linux)
