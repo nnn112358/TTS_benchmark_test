@@ -1,7 +1,6 @@
 ## TTSベンチマーク結果（ONNX-CPU推論）
 
-対象実装:
-
+こちらのリポジトリは、以下のリポジトリを参照して作成しています。
 * **MeloTTS**: [ml-inory/melotts.axera](https://github.com/ml-inory/melotts.axera)
 * **PiperPlus**: [ayutaz/piper-plus](https://github.com/ayutaz/piper-plus)
 
