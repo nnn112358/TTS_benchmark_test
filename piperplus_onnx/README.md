@@ -3,6 +3,10 @@
 こちらは、以下のリポジトリのforkです。
 https://github.com/ayutaz/piper-plus
 
+## 事前準備
+こちらからONNXを入手します
+https://github.com/ayutaz/piper-plus/tree/dev/huggingface-space/models
+
 
 ## 機能
 - ONNX Runtimeを使用したテキスト音声合成
@@ -72,3 +76,4 @@ INFO: Audio saved to: out.wav
 INFO: Duration: 2.50 seconds
 
 ```
+
