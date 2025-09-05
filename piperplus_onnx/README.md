@@ -1,6 +1,6 @@
 # Piper TTS CLI
 
-こちらは、以下のリポジトリのforkです。
+こちらは、以下のリポジトリをベースに作成したものです。
 https://github.com/ayutaz/piper-plus
 
 ## 事前準備
@@ -76,5 +76,6 @@ INFO: Audio saved to: out.wav
 INFO: Duration: 2.50 seconds
 
 ```
+
 
 
